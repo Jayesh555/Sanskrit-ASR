@@ -42,7 +42,7 @@ Presently the google voice to text doesn't support Sanskrit language. This proje
 - Clone the repository
 - download the trained model from [this link](https://drive.google.com/drive/folders/16kncbDUONtR0ARkTn6unksejkz53xIOS?usp=sharing) , and place it in the Flask_API folder.
 
-> git clone https://github.com/vinit620/sanskrit_asr.git
+> git clone https://github.com/Jayesh555/Sanskrit-ASR.git
 ### **Install dependencies**
 
 > pip install -r requirements.txt
